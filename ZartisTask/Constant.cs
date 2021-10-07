@@ -1,5 +1,8 @@
 ﻿namespace ZartisTask
 {
+    /// <summary>
+    /// this file for constant config
+    /// </summary>
     public class Constant
     {
         public const int PlatformSize = 10;

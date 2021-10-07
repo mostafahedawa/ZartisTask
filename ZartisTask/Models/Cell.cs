@@ -1,22 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ZartisTask.Models
+﻿namespace ZartisTask.Models
 {
     public class Cell
     {
+        #region Properties
         public int RowNumber { get; set; }
         public int ColumnNumber { get; set; }
         public bool CurrentlyOccupied { get; set; }
         public bool LegalNextLand { get; set; }
+        #endregion
 
-        public Cell(int x , int y)
+        #region ctor
+        public Cell(int x, int y)
         {
             RowNumber = x;
             ColumnNumber = y;
-        }
+        } 
+        #endregion
     }
 }

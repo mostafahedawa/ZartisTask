@@ -4,6 +4,7 @@ namespace ZartisTask.Models
 {
     public class LandingPlatform : LandingArea
     {
+        #region ctor
         public LandingPlatform()
         {
             // initialize the size of the landing platform
@@ -22,6 +23,9 @@ namespace ZartisTask.Models
                 }
             }
         }
+        #endregion
+
+        #region Methods
         public string MarkLegalLanding(Cell currentCell, string rocket)
         {
             if (IsSafeLand(currentCell.RowNumber, currentCell.ColumnNumber))
@@ -50,10 +54,12 @@ namespace ZartisTask.Models
             else
                 return FormateMessage(currentCell.RowNumber, currentCell.ColumnNumber, Status.NotAvilable);
         }
+        #endregion
 
+        #region Helpers
         private bool IsSafeLand(int rowNumber, int column)
         {
-            return rowNumber>= Constant.PlatformStartingPoint && column >= Constant.PlatformStartingPoint && rowNumber <= Size-1 + Constant.PlatformStartingPoint && column <= Size-1 + Constant.PlatformStartingPoint;
+            return rowNumber >= Constant.PlatformStartingPoint && column >= Constant.PlatformStartingPoint && rowNumber <= Size - 1 + Constant.PlatformStartingPoint && column <= Size - 1 + Constant.PlatformStartingPoint;
         }
 
         private static string FormateMessage(int x, int y, Status status)
@@ -78,6 +84,7 @@ namespace ZartisTask.Models
             }
 
             return "The Cordinate (" + x + "," + y + ") is " + message;
-        }
+        } 
+        #endregion
     }
 }
