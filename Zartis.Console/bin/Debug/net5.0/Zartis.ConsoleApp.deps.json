@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Zartis.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "ZartisTask": "1.0.0"
+        },
+        "runtime": {
+          "Zartis.ConsoleApp.dll": {}
+        }
+      },
+      "ZartisTask/1.0.0": {
+        "runtime": {
+          "ZartisTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zartis.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZartisTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

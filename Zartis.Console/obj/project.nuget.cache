@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "veorxQKjx37wlVKE9lKDBT96UAkcKyiyndvNwJjfqIXox75HRujKCRMH42kKssAOmdiImo8VL3DLpacz2WdBqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mostafa.hedawa\\source\\repos\\ZartisTask\\Zartis.Console\\Zartis.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mostafa.hedawa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

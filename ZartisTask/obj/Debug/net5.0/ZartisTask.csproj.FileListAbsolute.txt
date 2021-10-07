@@ -1,0 +1,12 @@
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\bin\Debug\net5.0\ZartisTask.deps.json
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\bin\Debug\net5.0\ZartisTask.dll
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\bin\Debug\net5.0\ref\ZartisTask.dll
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\bin\Debug\net5.0\ZartisTask.pdb
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.csproj.AssemblyReference.cache
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.AssemblyInfoInputs.cache
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.AssemblyInfo.cs
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.csproj.CoreCompileInputs.cache
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.dll
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ref\ZartisTask.dll
+C:\Users\mostafa.hedawa\source\repos\ZartisTask\ZartisTask\obj\Debug\net5.0\ZartisTask.pdb
